@@ -28,7 +28,7 @@ import android.support.annotation.DrawableRes;
 import android.support.v4.content.ContextCompat;
 import android.support.v7.app.NotificationCompat;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.activities.MainActivity;
 
 import static android.support.v4.app.NotificationCompat.PRIORITY_MAX;

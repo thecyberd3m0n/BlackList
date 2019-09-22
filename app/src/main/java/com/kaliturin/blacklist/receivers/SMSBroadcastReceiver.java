@@ -25,7 +25,7 @@ import android.support.annotation.Nullable;
 import android.telephony.SmsMessage;
 import android.util.Log;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.services.BlockEventProcessService;
 import com.kaliturin.blacklist.services.SMSProcessService;
 import com.kaliturin.blacklist.utils.ContactsAccessHelper;

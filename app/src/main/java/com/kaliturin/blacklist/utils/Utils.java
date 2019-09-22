@@ -38,7 +38,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 
 import java.io.Closeable;
 import java.io.File;

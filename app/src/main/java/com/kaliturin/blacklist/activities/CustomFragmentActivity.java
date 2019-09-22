@@ -29,7 +29,7 @@ import android.util.Log;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.utils.Settings;
 
 

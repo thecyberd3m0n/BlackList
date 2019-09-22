@@ -21,7 +21,7 @@ import android.content.Context;
 import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -27,7 +27,7 @@ import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 
 /**
  * Information list array adapter

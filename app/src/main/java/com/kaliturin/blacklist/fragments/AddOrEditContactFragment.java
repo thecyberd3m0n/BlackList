@@ -33,7 +33,7 @@ import android.widget.LinearLayout;
 import android.widget.ScrollView;
 import android.widget.Spinner;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.utils.ButtonsBar;
 import com.kaliturin.blacklist.utils.ContactsAccessHelper;
 import com.kaliturin.blacklist.utils.ContactsAccessHelper.ContactSourceType;

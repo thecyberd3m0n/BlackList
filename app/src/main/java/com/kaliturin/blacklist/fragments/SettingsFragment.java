@@ -41,7 +41,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.activities.MainActivity;
 import com.kaliturin.blacklist.adapters.SettingsArrayAdapter;
 import com.kaliturin.blacklist.utils.DatabaseAccessHelper;

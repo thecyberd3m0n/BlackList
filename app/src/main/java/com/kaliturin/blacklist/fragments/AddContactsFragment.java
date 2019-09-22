@@ -41,7 +41,7 @@ import android.view.ViewGroup;
 import android.widget.ListView;
 import android.widget.TextView;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.adapters.ContactsCursorAdapter;
 import com.kaliturin.blacklist.utils.ButtonsBar;
 import com.kaliturin.blacklist.utils.ContactsAccessHelper;

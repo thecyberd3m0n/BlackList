@@ -29,7 +29,7 @@ import android.widget.CheckBox;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.utils.Settings;
 import com.kaliturin.blacklist.utils.Utils;
 

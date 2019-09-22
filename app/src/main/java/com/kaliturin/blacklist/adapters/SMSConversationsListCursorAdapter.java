@@ -26,7 +26,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.utils.ContactsAccessHelper.SMSConversation;
 import com.kaliturin.blacklist.utils.ContactsAccessHelper.SMSConversationWrapper;
 import com.kaliturin.blacklist.utils.Utils;

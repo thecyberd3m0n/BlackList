@@ -34,7 +34,7 @@ import android.view.KeyEvent;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 import com.kaliturin.blacklist.fragments.ContactsFragment;
 import com.kaliturin.blacklist.fragments.FragmentArguments;
 import com.kaliturin.blacklist.fragments.InformationFragment;

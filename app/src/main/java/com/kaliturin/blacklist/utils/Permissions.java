@@ -28,7 +28,7 @@ import android.support.v4.content.ContextCompat;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.kaliturin.blacklist.R;
+import com.tcdsoftware.blacklist.R;
 
 import java.util.ArrayList;
 import java.util.Arrays;
